@@ -9,3 +9,4 @@ Add the link to your feed at
 $url = 'Your iCal URL Here';
 ```
 
+Example [here](http://www.casapenasco.com/en/availability-and-booking.html).
