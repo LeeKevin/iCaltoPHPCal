@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+caption {
+text-align: -webkit-left;
+}
+
+.calnav {
+	text-decoration:none;
+	padding: 4px 8px;
+	background: #CCC;
+	border-radius:3px;
+}
+
+.calendar-next {
+	margin-right: 15px;	
+}
